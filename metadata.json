@@ -1,0 +1,6 @@
+{
+  "name": "Mlaebi - Pitch Booking",
+  "description": "Mobile application for pitch booking and sports court management (Football, Tennis, Padel) with smart reminders and booking history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
